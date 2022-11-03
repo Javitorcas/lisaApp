@@ -15,7 +15,7 @@
     });
     var config = {
         method: 'post',
-        timeout : 1000,
+        timeout : 12000,
         url: 'https://lisa.rpalumza.com/galileo/lisa/geninf/consulta_factura',
         headers: {
             'Authorization': 'Basic Q09OU1VMVEFTOmFsdW16YTIy',
